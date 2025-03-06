@@ -1,4 +1,4 @@
-## Olá!!! Me chamo Diogo Franjosi
+## DIOGO FRANJOSI DIAS - DESENVOLVEDOR FRONTEND
 
  <div>
   <a href="https://github.com/DiogoFranjosi">
