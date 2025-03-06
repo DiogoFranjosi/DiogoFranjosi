@@ -18,13 +18,11 @@
  <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-Here are some ideas to get you started:
 
 - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
 - 👯 Estou e busca do meu primeiro estágio, para que possa aplicar meus aprendizados e aprender mais com profissionais experientes
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Entre em contato comigo pelo email: diogofranjosi@icloud.com
+
+- ## CURIOSIDADES
+- ⚡ Ru
 -->
