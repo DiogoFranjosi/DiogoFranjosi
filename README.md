@@ -19,7 +19,7 @@
 
 
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
-- 🎯 Estou e busca do meu primeiro estágio, para que possa aplicar meus aprendizados e aprender mais com profissionais experientes.
+- 🎯 Estou em busca do meu primeiro estágio, para que possa aplicar meus aprendizados e aprender mais com profissionais experientes.
 - 📧 Entre em contato comigo pelo email: diogofranjosi@icloud.com
 
 - ## CURIOSIDADES
