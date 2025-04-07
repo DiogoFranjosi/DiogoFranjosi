@@ -18,8 +18,7 @@
   <a href="https://www.linkedin.com/in/diogofranjosi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
-- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
-- 🎯 Estou em busca do meu primeiro estágio, para que possa aplicar meus aprendizados e aprender mais com profissionais experientes.
+- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e trabalho como Desenvolvedor Júnior.
 - 📧 Entre em contato comigo pelo email: diogofranjosi@icloud.com
 
 - ## CURIOSIDADES
