@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/diogofranjosi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
-- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e trabalho como Desenvolvedor Júnior.
+- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e trabalho como Desenvolvedor Júnior na empresa ItPower.
 - 📧 Entre em contato comigo pelo email: diogofranjosi@icloud.com
 
 - ## CURIOSIDADES
