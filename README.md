@@ -9,7 +9,7 @@ DIOGO FRANJOSI DIAS | FULL-STACK DEVELOPER
     </td>
     <td>
       <a href="https://github.com/v1ih">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoFranjosi&layout=compact&langs_count=6&theme=tokyonight"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogofranjosi&layout=compact&langs_count=6&theme=tokyonight"/>
       </a>
     </td>
   </tr>
