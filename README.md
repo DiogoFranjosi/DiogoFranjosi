@@ -81,11 +81,6 @@
       <sub><b>C#</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/adobecoldfusion" width="40" height="40" alt="ColdFusion" />
-      <br>
-      <sub><b>ColdFusion</b></sub>
-    </td>
-    <td align="center" width="140">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
       <br>
       <sub><b>MySQL</b></sub>
