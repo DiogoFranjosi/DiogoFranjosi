@@ -3,13 +3,13 @@ DIOGO FRANJOSI DIAS | FULL-STACK DEVELOPER
 <table>
   <tr>
     <td>
-      <a href="https://github.com/v1ih">
+      <a href="https://github.com/DiogoFranjosi">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoFranjosi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/v1ih">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogofranjosi&layout=compact&langs_count=6&theme=tokyonight"/>
+      <a href="https://github.com/DiogoFranjosi">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoFranjosi&layout=compact&langs_count=6&theme=tokyonight"/>
       </a>
     </td>
   </tr>
