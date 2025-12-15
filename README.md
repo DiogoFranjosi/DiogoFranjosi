@@ -12,4 +12,11 @@ DIOGO FRANJOSI DIAS | FRONT-END DEVELOPER
 
 🎯 Goal: To evolve as a Full-Stack Developer, creating robust and efficient solutions.
 
-<div> <a href="mailto:diogofranjosi@icloud.com"><img src="https://img.shields.io/badge/-iCloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/diogofranjosi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/_diogofranjosi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> </div><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiogoFranjosi/DiogoFranjosi/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiogoFranjosi/DiogoFranjosi/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/DiogoFranjosi/DiogoFranjosi/output/github-snake.svg" /> </picture>
+<div> <a href="mailto:diogofranjosi@icloud.com"><img src="https://img.shields.io/badge/-iCloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/diogofranjosi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/_diogofranjosi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+</picture>
+
