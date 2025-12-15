@@ -14,8 +14,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DiogoFranjosi/DiogoFranjosi/output/pacman-contribution-graph.svg">
 </picture>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiogoFranjosi&bg_color=000000&color=ffffff&line=0ccef0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">  
 <a href="https://www.instagram.com/_diogofranjosi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
@@ -48,9 +46,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
 <br></div> -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiogoFranjosi/DiogoFranjosi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiogoFranjosi/DiogoFranjosi/output/github-snake.svg" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiogoFranjosi&bg_color=000000&color=ffffff&line=0ccef0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </picture>
 
